@@ -1,0 +1,11 @@
+{
+  "name": "bendgetary",
+  "version": "1.0.0",
+  "description": "Budget tracking app with accrual",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Reagan McLemore V",
+  "license": "ISC"
+}
